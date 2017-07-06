@@ -1,0 +1,13 @@
+{
+  "name": "mock-zone",
+  "version": "1.0.0",
+  "description": "Simple fake json server with one file configuration",
+  "main": "index.js",
+  "repository": "git@github.com:ytanruengsri/mock-zone.git",
+  "author": "Yuthasak Tanruengsri <yuthasak.tanruengsri@googlemail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.15.3",
+    "yargs": "8.0.2"
+  }
+}
